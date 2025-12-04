@@ -1,8 +1,8 @@
 ---
 title: Markdown 图片预览
 timestamp: 2025-04-04 00:00:00+00:00
-series: Astro
-tags: [Content, Demo]
+# series: Astro
+tags: [Demo]
 description: 演示 Markdown 中图片引用的三种方式：相对路径、绝对路径和外部链接，展示图片优化和管理最佳实践。
 ---
 
@@ -31,4 +31,4 @@ description: 演示 Markdown 中图片引用的三种方式：相对路径、绝
 
 [^random]: 随机图片来源：[Picsum](https://picsum.photos/)
 
-![示例图片](https://picsum.photos/1600/900?random=1)
+![示例图片](https://fastly.picsum.photos/id/25/5000/3333.jpg?hmac=yCz9LeSs-i72Ru0YvvpsoECnCTxZjzGde805gWrAHkM)

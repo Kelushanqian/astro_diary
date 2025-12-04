@@ -1,8 +1,8 @@
 import siteConfig from "./src/utils/config";
 
 const config = siteConfig({
-	title: "ThoughtLite",
-	prologue: "If you need a website\nthat loads fast and has great SEO, then Astro is for you.",
+	title: "小芜(Wren)",
+	prologue: "Welcome to my site.\n This is built from the astro template theme ThoughtLite.",
 	author: {
 		name: "小芜",
 		email: "decemisgreat@gmail.mail",

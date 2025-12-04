@@ -1,7 +1,7 @@
 ---
 title: 国际化配置指南
 timestamp: 2025-11-07 00:00:00+00:00
-tags: [Guide, Astro]
+tags: [Guide]
 description: 详细介绍如何配置主题的多语言支持，包括修改默认语言、添加新语言、管理翻译文件以及配置内容目录结构。
 ---
 
